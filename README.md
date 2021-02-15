@@ -11,4 +11,4 @@ JSP를 이용해 구현한 A/S요청 웹 게시판
 
 <실행화면>
 
-<img src="map.bmp" height="400" width="1000"/> <img src="board.png" height="400" width="1000"/> <img src="write.png" height="400" width="1000"/>
+<img src="map.bmp" height="200" width="500"/> <img src="board.png" height="200" width="500"/> <img src="write.png" height="200" width="500"/>
